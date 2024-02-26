@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(221,129,129);
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+p{
+    font-size: 1.5rem;
+    font-weight: 500;
+    align-items: center;
+}
+
